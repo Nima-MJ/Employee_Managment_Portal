@@ -1,7 +1,11 @@
 # Employee Managment Portal
 
 ## Purpose
-A website that offers keeping track of your employees and their departments through creating a profile. The profile includes Employee name and number, Department, Date of Joining, and picture. The emplyee profiles will be stored in our app thorugh SQL Server and can be updated at anytime. You can filter, sort and analyse the departments and employees to help you make decisions about your buisness.
+Project Description: Employee Tracker
+
+The Employee Tracker is a web-based application designed to manage and organize employee information. The app enables the creation of employee profiles, including essential details such as name, employee number, department, date of joining, and a profile picture. These profiles are stored in a SQL Server database, allowing for real-time updates and access to information.
+
+The app features advanced filtering, sorting, and analysis capabilities, allowing for quick and easy decision making in regards to employee departments. The Employee Tracker streamlines the process of managing and organizing employee information, making it a valuable tool for any business looking to improve their HR processes.
 
 ## Built with 
 * Back-End: ASP.Net Framework (language used C#)
