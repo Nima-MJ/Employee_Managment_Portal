@@ -10,4 +10,8 @@ A website that offers keeping track of your employees and their departments thro
 * Postman, Restful API, CRUD operations, MVC 
 
 ## Contribution
-Desined and built from scratch by Nima Mehrjoonezhad
+Nima Mehrjoonezhad
+
+
+## Demo 
+![](https://github.com/Nima-MJ/Employee_Managment_Portal/blob/main/Demo.gif?raw=true)
